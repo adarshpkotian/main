@@ -28,11 +28,11 @@
 }
 
 .hovers{
-    background: white;
+    background: #ffd259;
 }
 
 .hovers:hover{
-    filter: drop-shadow(0 0 0.25rem grey);
+    filter: drop-shadow(0 0 0.25rem black);
 }
 
 
@@ -42,3 +42,5 @@
   .carousel-inner {
     margin-bottom:50px;
  }
+
+ 
