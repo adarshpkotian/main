@@ -1,0 +1,44 @@
+.abtmeh{
+    font-family: 'Quicksand', sans-serif;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.all-text{
+    font-family: 'Quicksand', sans-serif;
+    text-align: center;
+
+}
+
+.all-texts{
+    font-family: 'Noto Serif JP', serif;
+    
+
+}
+
+.card{
+    filter: drop-shadow(0 0 0.1rem grey);
+}
+
+.center-items{
+    display: grid;
+    align-items: center;
+    justify-content: center;
+}
+
+.hovers{
+    background: white;
+}
+
+.hovers:hover{
+    filter: drop-shadow(0 0 0.25rem grey);
+}
+
+
+.carousel-indicators {
+    bottom:-50px;
+  }
+  .carousel-inner {
+    margin-bottom:50px;
+ }
